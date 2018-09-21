@@ -1,0 +1,16 @@
+body {
+  background: #444444;
+}
+
+canvas {
+  background: white;
+}
+
+#cmain {
+  border: 12px inset #865f21;
+}
+
+img {
+  display: none;
+}
+
